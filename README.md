@@ -1,7 +1,6 @@
 #NCS Microphone Project
 
 
---
 
 ![NCS Microphone](pics/NCS_Microphone.jpg)  
 
@@ -27,12 +26,14 @@ Looking foward to see your feedback!!
 ####Instruction A: [NCS Microphone](http://fabble.cc/yosukesakai/ncs-microphone) (Fabble)    
 Regular version.  
 Print model parts with 3D printer and get some parts  in market, then build it.  
-![NCS Microphone](pics/NCSMicrophone3.jpg)  
+
+<img src="pics/NCSMicrophone3.jpg" width="500">  
 
 ####Instruction B: [NCS Microphone (100 yen smartphone headset ver.)](http://fabble.cc/yosukesakai/ncs-microphone-100yen-smartphone-headset-ver) (Fabble)  
 This is a variation of using a smartphone headset which is available in market, assembling 3d printed parts which are same as regular version.  
 You can make it **WITHOUT ANY SOLDERING** and use it as regular external microphone of smartphone.
-![NCS Microphone 100Y](pics/NCS_Microphone100Y_2.jpg)  
+
+<img src="pics/NCS_Microphone100Y_2.jpg" width="500">  
  
 ####STL file: [NCS Microphone](http://www.thingiverse.com/thing:1666150) (Thingiverse)  
 
@@ -97,5 +98,6 @@ Related projects
 [Spear Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project)  
 [NCS Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project) (this project)  
 
+next project is coming soon..
 
 --  
