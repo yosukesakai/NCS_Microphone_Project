@@ -66,6 +66,9 @@ STL file for body parts (tube part, bottom part, cable stopper) and optional par
 
 
 Making NCS Microphone and Fieldrecording Workshop was held at Hoshiniwa, Yaba-kei, Oita, JP. With 9 perticipants, Jul 2016.  
+
+<img src="pics/workshop/YabaFes7.jpg" width="300">  
+prepared parts  
   
 <img src="pics/workshop/YabaFes1.jpg" width="300">  
 make microphone  
