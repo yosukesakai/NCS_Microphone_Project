@@ -4,7 +4,7 @@
 
 ![NCS Microphone](pics/NCS_Microphone.jpg)  
 
-This project is OPEN SHARED as open source hardware.   See details and licenses on the website of each content. 
+This project is OPEN SHARED as open source hardware.     See details and licenses on the website of each content.   
 So you can make or update it by yourself.   
 Looking foward to see your feedback!!  
   
