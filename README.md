@@ -6,7 +6,8 @@
 
 This project is OPEN SHARED as open source hardware. See details and licenses on the website of each content. So you can make or update it by yourself.   
 Looking foward to see your feedback!!  
-
+  
+(Project Adviser: [Masasi Heirakuji](http://www.grecord.com))  
 (a derivative project of "[Spear Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project)")  
 
 --
@@ -66,6 +67,7 @@ STL file for body parts (tube part, bottom part, cable stopper) and optional par
 
 
 Making NCS Microphone and Fieldrecording Workshop was held at Hoshiniwa, Yaba-kei, Oita, JP. With 9 perticipants, Jul 2016.  
+This workshop is supported by [FabLabYamaguchi](http://fablabyamaguchi.com).  
 
 <img src="pics/workshop/YabaFes7.jpg" width="300">  
 prepared parts  
