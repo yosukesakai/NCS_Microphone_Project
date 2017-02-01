@@ -103,7 +103,7 @@ This is one of the Self-Build Microphone Project Series,
 Related projects  
 
 [Spear Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project)  
-[NCS Microphone Project](https://github.com/yosukesakai/Spear_Michrophone_Project) (this project)  
+[NCS Microphone Project](https://github.com/yosukesakai/NCS_Microphone_Project) (this project)  
 
 next project is coming soon..
 
